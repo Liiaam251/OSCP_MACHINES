@@ -27,3 +27,24 @@ Vemos que tiene joomla
 <img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/86033a42-29aa-4aa8-9207-ce979c1248f6" />
 Tenemos acceso al joomla, ahora la idea es hacer reverseshell
 
+````
+Users
+[649] lewis (lewis) - lewis@devvortex.htb - Super Users
+[650] logan paul (logan) - logan@devvortex.htb - Registered
+
+Site info
+Site name: Development
+Editor: tinymce
+Captcha: 0
+Access: 1
+Debug status: false
+
+Database info
+DB type: mysqli
+DB host: localhost
+DB user: lewis
+DB password: P4ntherg0t1n5r3c0n##
+DB name: joomla
+DB prefix: sd4fg_
+DB encryption 0
+````
